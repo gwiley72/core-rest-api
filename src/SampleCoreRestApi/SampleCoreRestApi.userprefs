@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{366E87B2-2DF1-4EFA-B339-07C9E76E6B26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreRestApi/appsettings.Development.json">
+    <Files>
+      <File FileName="CoreRestApi/Controllers/ValuesController.cs" Line="16" Column="22" />
+      <File FileName="CoreRestApi/appsettings.json" Line="9" Column="1" />
+      <File FileName="CoreRestApi/Program.cs" Line="4" Column="1" />
+      <File FileName="CoreRestApi/Startup.cs" Line="16" Column="76" />
+      <File FileName="CoreRestApi/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CoreRestApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
